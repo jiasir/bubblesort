@@ -1,2 +1,2 @@
 # bubblesort
-Bubble sort algorithms
+Bubble sort algorithm
